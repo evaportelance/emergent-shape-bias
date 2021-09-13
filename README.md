@@ -5,7 +5,7 @@ This repository contains the code for the paper:
 @inproceedings{portelance2021,
   title={The Emergence of the Shape Bias Results from Communicative Efficiency},
   author={Portelance, Eva and Frank, Michael C. and Jurafsky, Dan and Sordoni, Alessandro and Laroche, Romain},
-  booktitle={Proceedings of the 25th Conference on Computational Natural Language Learning (CoNLL)},
+  booktitle={25th Conference on Computational Natural Language Learning (CoNLL)},
   year={2021}
 }
 
